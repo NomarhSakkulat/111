@@ -1,6 +1,6 @@
-#include <iostream>
+# 111 <iostream>
 using namespace std; // плохая практика
-#include <string>
+# 111 <string>
 
 int main() {
     cout << "Hello world!" << endl;
